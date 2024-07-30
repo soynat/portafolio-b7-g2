@@ -10,3 +10,23 @@ body{
 
  
 }
+
+.proyecto {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+#proyecto-1 {
+    background-image: url('proyecto1.jpeg');
+}
+#proyecto-2 {
+    background-image: url('proyecto2.jpeg');
+}
+
+#proyecto-3 {
+    background-image: url('proyecto3.png');
+}
+
+.text-shadow-1 {
+    text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+}
