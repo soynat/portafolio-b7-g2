@@ -8,25 +8,43 @@ body{
     justify-content: start;
     align-items: center;
 
+    background-image: url(assets/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
  
 }
 
 .proyecto {
     background-repeat: no-repeat;
     background-position: center;
-    background-size: auto;
+    background-size: cover;
 }
 #proyecto-1 {
-    background-image: url('proyecto1.jpeg');
+    background-image: url('assets/proyecto1.png');
 }
 #proyecto-2 {
-    background-image: url('proyecto2.jpeg');
+    background-image: url('assets/proyecto2.png');
 }
 
 #proyecto-3 {
-    background-image: url('proyecto3.png');
+    background-image: url('assets/Proyecto3.png');
+    
 }
 
 .text-shadow-1 {
     text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+}
+
+.bg-brand{
+    background-color: blueviolet;
+}
+
+.imagen-redonda {
+    border-radius: 50%;
+}
+
+#texto-centrado{
+    text-align:justify ;
 }
