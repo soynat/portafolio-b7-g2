@@ -5,11 +5,11 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 [Proyecto Desplegado (https://portafolio-b7-g2-kappa.vercel.app/)](https://portafolio-b7-g2-kappa.vercel.app/)
 ## Secciones de mi sitio
 
-![Presentacion](assets\Readme\pro1.png)
+![Presentacion](assets/readme/pro1.png)
 
-![Habilidades](assets\Readme\pro2.png)
+![Habilidades](assets/readme/pro2.png)
 
-![Testimonios](assets\Readme\pro3.png)
+![Testimonios](assets/readme/pro3.png)
 ## Tecnologías
 * HTML
 * CSS
